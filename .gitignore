@@ -1,0 +1,13 @@
+# outputs / samples
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# ComfyUI outputs
+output/
+Wan/
